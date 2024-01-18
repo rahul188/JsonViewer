@@ -1,6 +1,4 @@
-Certainly! Here's an updated version of the README file with 30 emojis added for a more vibrant and expressive touch:
 
-```markdown
 # 📱 JsonViewer App
 
 JsonViewer is an Android app that fetches JSON data from a specified URL, allowing users to view and interact with categorized menus.
@@ -53,7 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙌 Acknowledgments
 
 - Thanks to [OpenAI](https://www.openai.com/) for providing the language model used to generate this README template.
-
-```
-
-Feel free to customize the emojis or add more based on your preferences!
